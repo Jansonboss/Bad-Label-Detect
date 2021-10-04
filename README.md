@@ -1,1 +1,1 @@
-# Bad-Label-Detect
+# Bad Label Detection Project
